@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Stellar Dark+ Material",
+        "label": "Stellar Dark Material",
         "uiTheme": "vs-dark",
         "path": "./themes/Stellar-Dark-Material-color-theme.json"
       }
