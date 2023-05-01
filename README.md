@@ -2,6 +2,8 @@
 
 A VS Code Theme that is a fork of `Default Material Dark Theme` by `yuchiu`.
 
+![demo](StellarDarkMaterial.png)
+
 I loved that theme so much but found that long coding sessions would fatigue my eyes because of the brighter light colors of the palette. I hand picked some dimmed variants of those lights, and even changed the hue where it made it look cool.
 
 - Github [Link](https://github.com/karanveersp/Stellar-Dark-Theme)
