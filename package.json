@@ -1,0 +1,24 @@
+{
+  "name": "stellar-dark-material",
+  "displayName": "Stellar Dark Material",
+  "description": "A dark theme based on Dark+ Material with dimmed brightness of colors and no white.",
+  "author": {
+    "name": "karanveersp"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stellar Dark+ Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stellar-Dark-Material-color-theme.json"
+      }
+    ]
+  }
+}
