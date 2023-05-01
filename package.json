@@ -2,6 +2,9 @@
   "name": "stellar-dark-material",
   "displayName": "Stellar Dark Material",
   "description": "A dark theme based on Dark+ Material with dimmed brightness of colors and no white.",
+  "repository": {
+    "url": "https://github.com/karanveersp/Stellar-Dark-Theme"
+  },
   "author": {
     "name": "karanveersp"
   },
